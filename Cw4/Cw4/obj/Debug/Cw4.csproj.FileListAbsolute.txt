@@ -1,0 +1,5 @@
+C:\Users\local\Desktop\Cw4\Cw4\Cw4\bin\Debug\Cw4.exe.config
+C:\Users\local\Desktop\Cw4\Cw4\Cw4\bin\Debug\Cw4.exe
+C:\Users\local\Desktop\Cw4\Cw4\Cw4\bin\Debug\Cw4.pdb
+C:\Users\local\Desktop\Cw4\Cw4\Cw4\obj\Debug\Cw4.exe
+C:\Users\local\Desktop\Cw4\Cw4\Cw4\obj\Debug\Cw4.pdb
